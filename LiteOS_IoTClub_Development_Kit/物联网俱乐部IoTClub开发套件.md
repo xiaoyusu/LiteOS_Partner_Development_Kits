@@ -59,23 +59,23 @@ EVB_M1是以STM32L4为主控MCU，BC95为通讯模组的NB-IoT开发板。丰富
 
 源码Demo
 
-- EVB_M1 demo介绍
-- EVB_M1_Code_LiteOS
-- EVB_M1_Code_Demo
+- [EVB_M1 demo介绍](./kit_docs/03. 源码/demo介绍.docx)
+- [EVB_M1_Code_LiteOS](./kit_docs/03. 源码/EVB_M1_Code_LiteOS.zip)
+- [EVB_M1_Code_Demo](./kit_docs/03. 源码/EVB_M1_Code_Demo.zip)
 
 原理图
 
-- EVB_M1 PCB图
-- EVB_M1 V2.0原理图
+- [EVB_M1 PCB图](./kit_docs/01. 资料/EVB_M1 PCB图.pdf)
+- [EVB_M1 V2.0原理图](./kit_docs/01. 资料/EVB_M1 V2.0原理图.pdf)
 
 开发指南
 
-- EVB_M1 介绍
-- EVB_M1串口调试NB-IoT入门篇
-- EVB_M1硬件介绍
-- 华为OceanConnect IoT平台接入手册
+- [EVB_M1 介绍](./kit_docs/01. 资料/EVB_M1介绍（新）.docx)
+- [EVB_M1串口调试NB-IoT入门篇](./kit_docs/02. 教程/EVB_M1串口调试NB-IoT入门篇.doc)
+- [EVB_M1硬件介绍](./kit_docs/02. 教程/EVB_M1硬件.docx)
+- [华为OceanConnect IoT平台接入手册](./kit_docs/02. 教程/华为平台接入手册.docx)
 
-工具
+工具（请自行至官方渠道下载）
 
 - STLINK驱动
 - STM32 ST-LINK Utility v4.0.0 setup
